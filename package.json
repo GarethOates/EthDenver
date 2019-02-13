@@ -1,0 +1,19 @@
+{
+  "name": "ethdenver",
+  "version": "1.0.0",
+  "description": "EthDenver Presentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethdenver",
+    "solidity",
+    "erc721"
+  ],
+  "author": "Gareth Oates",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.2"
+  }
+}
