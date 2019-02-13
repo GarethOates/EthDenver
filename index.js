@@ -34,7 +34,6 @@ class MerkleTree {
         for (let i = 0; i < layer.length; i += 2) {
             let left = layer[i];
             let right = layer[i + 1];
-            let value;
 
             if (!right) {
                 newLayer.push(left);
